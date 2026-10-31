@@ -1,0 +1,9 @@
+dist/
+build/
+__pycache__/
+*.pyc
+*.obj
+*.o
+*.exe
+*.user
+.vs/
